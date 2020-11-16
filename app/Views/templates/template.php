@@ -9,4 +9,9 @@
     <!-- <link href="http://localhost/ngobar/public/css/output.css"> -->
 </head>
 
-<?= $this->renderSection('content'); ?>
+<body>
+    <?= $this->renderSection('content'); ?>
+
+</body>
+
+</html>
