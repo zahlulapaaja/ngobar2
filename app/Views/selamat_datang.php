@@ -3,7 +3,7 @@
 <?= $this->section('content'); ?>
 
 
-Selamat datang
+Selamat datang di halaman profil
 <div class="flex">
     <div class="card">
         <img class="w-full" src="http://localhost/ngobar/public/img/card-top.jpg" alt="Sunset in the mountains">
